@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583467953970",
+    "project_id": "uom-plant-care-main-429f9",
+    "storage_bucket": "uom-plant-care-main-429f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583467953970:android:3b8160158d9767e7f2b12b",
+        "android_client_info": {
+          "package_name": "com.example.uom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFv5mgRMc7B8hVQFDf4DtBZNia8z1wiLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
