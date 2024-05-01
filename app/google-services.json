@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "583467953970",
-    "firebase_url": "https://uom-plant-care-main-429f9-default-rtdb.firebaseio.com",
-    "project_id": "uom-plant-care-main-429f9",
-    "storage_bucket": "uom-plant-care-main-429f9.appspot.com"
+    "project_number": "1064922333943",
+    "project_id": "uom-plant",
+    "storage_bucket": "uom-plant.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:583467953970:android:3b8160158d9767e7f2b12b",
+        "mobilesdk_app_id": "1:1064922333943:android:0318642f104cc317a889f2",
         "android_client_info": {
           "package_name": "com.example.uom"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAFv5mgRMc7B8hVQFDf4DtBZNia8z1wiLY"
+          "current_key": "AIzaSyBCnoCjLhhocINwN7QqrtAp5-OwzZke6_0"
         }
       ],
       "services": {
