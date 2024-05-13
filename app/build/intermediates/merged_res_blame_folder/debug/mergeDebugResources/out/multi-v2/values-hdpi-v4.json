@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.grzeluu.plantcareapp-mergeDebugResources-33:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shiro Bi\\.gradle\\caches\\transforms-3\\d5d93b50b2b08951e87d76d841005b2a\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+com.grzeluu.plantcareapp.test.app-androidTest-0 D:\LaptrinhModule\Uom2\app\build\generated\res\resValues\androidTest\debug
+com.grzeluu.plantcareapp.test.app-mergeDebugAndroidTestResources-1 D:\LaptrinhModule\Uom2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.grzeluu.plantcareapp.test.app-mergeDebugAndroidTestResources-2 D:\LaptrinhModule\Uom2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.grzeluu.plantcareapp.test.app-debugAndroidTest-3 D:\LaptrinhModule\Uom2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

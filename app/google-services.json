@@ -1,26 +1,44 @@
 {
   "project_info": {
-    "project_number": "583467953970",
-    "project_id": "uom-plant-care-main-429f9",
-    "storage_bucket": "uom-plant-care-main-429f9.appspot.com"
+    "project_number": "959022287342",
+    "project_id": "uomplant",
+    "storage_bucket": "uomplant.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:583467953970:android:3b8160158d9767e7f2b12b",
+        "mobilesdk_app_id": "1:959022287342:android:f5b19db40645cfe8d4e6ff",
         "android_client_info": {
-          "package_name": "com.example.uom"
+          "package_name": "com.grzeluu.plantcareapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "959022287342-q9a9ge59fb4kvr4jqdqjkvo51tpttb3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grzeluu.plantcareapp",
+            "certificate_hash": "93879d827e97afd082ee533b9749b21dd9fcaeab"
+          }
+        },
+        {
+          "client_id": "959022287342-eeu79uqiqp1oeufiupk8mufqqfbicvbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAFv5mgRMc7B8hVQFDf4DtBZNia8z1wiLY"
+          "current_key": "AIzaSyBpO2ujko_OchBjvvVIdTAaYxcos7A87Lk"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959022287342-eeu79uqiqp1oeufiupk8mufqqfbicvbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
