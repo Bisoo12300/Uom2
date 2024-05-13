@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/dialog_ask.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/dialog_ask.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/toolbar_discovery.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/toolbar_discovery.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/layout_watering_settings.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/layout_watering_settings.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/activity_check_plant.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/activity_check_plant.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/toolbar_my_plants.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/toolbar_my_plants.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/dialog_forgot_password.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/dialog_forgot_password.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/item_my_plant.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/item_my_plant.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/fragment_my_plants.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/fragment_my_plants.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/layout_spraying_settings.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/layout_spraying_settings.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/layout_fertilizing_settings.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/layout_fertilizing_settings.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/item_advice.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/item_advice.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/dialog_progress.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/activity_login.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/toolbar_add_plant.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/toolbar_add_plant.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/main_layout.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/main_layout.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/fragment_add_plant.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/fragment_add_plant.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/popup_take_care.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/popup_take_care.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/item_discover_plant.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/item_discover_plant.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/fragment_discover.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/nav_header_main.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/activity_register.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.grzeluu.plantcareapp-mergeDebugResources-34:/layout/content_main.xml",
+        "source": "com.grzeluu.plantcareapp-main-37:/layout/content_main.xml"
+    }
+]

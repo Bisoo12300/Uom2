@@ -5,12 +5,12 @@ plugins {
 
 android {
     compileSdkVersion 31
-    buildToolsVersion "30.0.3"
+    buildToolsVersion "34.0.0"
 
     defaultConfig {
-        applicationId "com.example.uom"
-        minSdkVersion 26
-        targetSdkVersion 34
+        applicationId "com.grzeluu.plantcareapp"
+        minSdkVersion 23
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
@@ -31,7 +31,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'com.example.uom'
+    namespace 'com.grzeluu.plantcareapp'
 }
 
 dependencies {
@@ -42,13 +42,13 @@ dependencies {
 
     implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
 
-    implementation 'com.google.firebase:firebase-database:20.0.3'
-    implementation 'com.google.firebase:firebase-auth:21.0.1'
-    implementation 'com.google.firebase:firebase-storage:20.0.0'
+    implementation 'com.google.firebase:firebase-database:20.3.1'
+    implementation 'com.google.firebase:firebase-auth:22.3.1'
+    implementation 'com.google.firebase:firebase-storage:21.0.0'
     implementation 'com.firebaseui:firebase-ui-storage:6.2.1'
 
-    implementation 'com.github.bumptech.glide:glide:4.8.0'
-    annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.16.0'
 
     implementation 'androidx.navigation:navigation-fragment:2.3.5'
     implementation 'androidx.navigation:navigation-ui:2.3.5'
